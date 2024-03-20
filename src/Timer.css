@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.timer-container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+}
+.timer{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 2rem;
+    height: 200px;
+    width: 200px;
+    padding: 1rem;
+    border-radius: 50%;
+    border: solid black 10px;
+    background-color: skyblue;
+}
+.timer p{
+    font-size: 2rem;
+}
+.buttons{
+    display: flex;
+    gap: .5rem;
+}
+.buttons button{
+    cursor: pointer;
+    background-color: transparent;
+    padding: 1rem;
+    background: rgba(255,255,255,0.2);
+                -webkit-backdrop-filter: blur(10px);
+    backdrop-filter: blur(10px);
+    border: 1px solid rgba(255,255,255,0.1);
+    border-radius: 40%;
+}
+.buttons p{
+    font-size: 1.5rem;
+}
