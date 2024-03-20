@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/timerapp/static/css/main.64d6576c.css",
+    "main.js": "/timerapp/static/js/main.483a5584.js",
+    "static/js/453.b1f4e9e9.chunk.js": "/timerapp/static/js/453.b1f4e9e9.chunk.js",
+    "index.html": "/timerapp/index.html",
+    "main.64d6576c.css.map": "/timerapp/static/css/main.64d6576c.css.map",
+    "main.483a5584.js.map": "/timerapp/static/js/main.483a5584.js.map",
+    "453.b1f4e9e9.chunk.js.map": "/timerapp/static/js/453.b1f4e9e9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64d6576c.css",
+    "static/js/main.483a5584.js"
+  ]
+}
